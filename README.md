@@ -7,16 +7,18 @@ A plataforma permite que os alunos se cadastrem, visualizem as informações sob
 O projeto tem como objetivo tornar o processo de participação no programa NEEJA mais fácil e acessível, reduzindo o tempo e o esforço necessário para realizar as provas.
 
 ## Tecnologias Utilizadas
-- Linguagem de programação: PHP 8.2
-- Banco de dados: PostgreSQL para fonte da informação e Firebase para leitura/relatórios
 - Backend: [Mais detalhes sobre a implementação do backend](https://github.com/19950512/neeja/blob/main/BACKEND.md)
 - Frontend: [Mais detalhes sobre a implementação do backend](https://github.com/19950512/neeja/blob/main/FRONTEND.md)
-- Hospedagem: DigitalOcean
+- Hospedagem: Digital Ocean
 
 ## Doações
 O projeto Neeja é desenvolvido de forma voluntária e sem fins lucrativos.
 Caso deseje apoiar o projeto, você pode realizar uma doação através do PIX.
-Chave Pix: XXXXXXXXXXXXX.
+- Chave Pix: **4b37c5ac-3200-4a4f-ac47-80447ce3e4e3**.
+- Link: **https://nubank.com.br/pagar/1ac1f/8a8Wmr3p7w**
+- ![download](https://user-images.githubusercontent.com/36517599/233880520-8576dd71-d133-4f9c-9e75-799a5f3eeb30.png)
+
+
 
 Todas as doações serão utilizadas para melhorar e manter a plataforma em funcionamento.
 Todos os valores doados e seus respectivos fins serão disponibilizados publicamente no projeto.
