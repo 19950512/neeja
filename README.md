@@ -8,7 +8,7 @@ O projeto tem como objetivo tornar o processo de participação no programa NEEJ
 
 ## Tecnologias Utilizadas
 - Backend: [Mais detalhes sobre a implementação do backend](https://github.com/19950512/neeja/blob/main/BACKEND.md)
-- Frontend: [Mais detalhes sobre a implementação do backend](https://github.com/19950512/neeja/blob/main/FRONTEND.md)
+- Frontend: [Mais detalhes sobre a implementação do frontend](https://github.com/19950512/neeja/blob/main/FRONTEND.md)
 - Hospedagem: Digital Ocean
 
 ## Doações
