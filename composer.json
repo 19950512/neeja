@@ -1,6 +1,7 @@
 {
     "name": "programador/neeja",
     "description": "O repositório Neeja contém o código fonte do projeto de mesmo nome, que tem como objetivo facilitar o acesso à educação para jovens e adultos que não tiveram a oportunidade de concluir o Ensino Fundamental e Médio na idade apropriada",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
