@@ -19,7 +19,6 @@ Caso deseje apoiar o projeto, você pode realizar uma doação através do PIX.
 - ![download](https://user-images.githubusercontent.com/36517599/233880520-8576dd71-d133-4f9c-9e75-799a5f3eeb30.png)
 
 
-
 Todas as doações serão utilizadas para melhorar e manter a plataforma em funcionamento.
 Todos os valores doados e seus respectivos fins serão disponibilizados publicamente no projeto.
 
